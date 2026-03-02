@@ -2,6 +2,7 @@
 
 Welcome! This is the official codebase for
 'A Data-Centric Study on Multi-Domain Reasoning via Reinforcement Learning' 🎉
+[![arXiv](https://img.shields.io/badge/arXiv-2507.17512-%23B31B1B)](https://arxiv.org/pdf/2507.17512)
 
 Explore how data from multiple domains influences reasoning performance, powered by reinforcement learning. Whether you’re a researcher, student, or RL enthusiast, this repo will help you dive into the world of multi-domain data and intelligent reasoning!
 
